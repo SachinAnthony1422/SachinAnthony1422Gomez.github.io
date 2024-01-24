@@ -1,20 +1,20 @@
-body{
-  margin:0;
-   padding:0px;
-   background-color: #1698da;
-  }
+body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle, #f0e68c, #98fb98, #dda0dd); /* Radial gradient with soft yellow, light green, and soft purple */
+}
 
-  .calculator {
-   width: 620px;
-   position: absolute;
-   height: 430px;
-  background-color: beige;
+.calculator {
+  width: 620px;
+  position: absolute;
+  height: 430px;
+  background-color: #e6e6fa; /* Lavender background color for the calculator */
   padding: 20px;
   border-radius: 10px;
   margin: 12% 30%;
   overflow: scroll;
   top: -80px;
-  }
+}
   .heading{
     margin-top: 0;
     text-align: center;
